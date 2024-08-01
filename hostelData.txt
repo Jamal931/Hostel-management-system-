@@ -1,0 +1,33 @@
+Room No: 12
+Capacity: 2
+
+Room No: 12
+Occupant: AKITA
+Room No: 5705
+Capacity: 1
+
+Room No: 5705
+Occupant: Appiah
+Room No: 3
+Capacity: 1
+
+Room No: 3
+Occupant: Ato
+
+Room No: 1
+
+Capacity: 1
+
+Room No: 1
+Occupant: Appiah
+
+Room No: 1
+
+Capacity: 1
+
+Room No: 1
+
+Capacity: 1
+
+Room No: 1
+Occupant: Emma
