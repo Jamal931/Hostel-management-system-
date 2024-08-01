@@ -2,12 +2,12 @@ Room No: 12
 Capacity: 2
 
 Room No: 12
-Occupant: AKITA
+Occupant: Kwame
 Room No: 5705
 Capacity: 1
 
 Room No: 5705
-Occupant: Appiah
+Occupant: Kofi
 Room No: 3
 Capacity: 1
 
